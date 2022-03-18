@@ -1,3 +1,3 @@
-added a link on a GitHub or social media profile.
+i have added the link of my github profile.
 
 https://github.com/VivekAmbegaonkar/markdown-portfolio 
